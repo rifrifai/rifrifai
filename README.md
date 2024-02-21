@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rifrifai
-- 👀 I’m interested in coding and watching movie
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php
-- 📫 How to reach me to do expert php
+ORANG GANTENG YANG SEDANG BELAJAR
 
 <!---
 rifrifai/rifrifai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
